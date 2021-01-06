@@ -8,3 +8,19 @@ The cake is round, and decorated with M&Ms in a circle around the edge. But whil
 To help you best cut the cake, you have turned the sequence of colors of the M&Ms on the cake into a string: each possible letter (between a and z) corresponds to a unique color, and the sequence of M&Ms is given clockwise (the decorations form a circle around the outer edge of the cake).
 
 Write a function called solution(s) that, given a non-empty string less than 200 characters in length describing the sequence of M&Ms, returns the maximum number of equal parts that can be cut from the cake without leaving any leftovers.
+
+Test Cases
+==========
+Your code should pass the following test cases.
+Note that it may also be run against hidden test cases not shown here.
+
+-- Python cases --
+Input:
+solution.solution("abcabcabcabc")
+Output:
+    4
+
+Input:
+solution.solution("abccbaabccba")
+Output:
+    2
