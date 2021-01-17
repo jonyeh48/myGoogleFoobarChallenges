@@ -70,21 +70,35 @@ Input:
 solution.solution([[True, False, True, False, False, True, True, True], [True, False, True, False, False, False, True, False], [True, True, True, False, False, False, True, False], [True, False, True, False, False, False, True, False], [True, False, True, False, False, True, True, True]])
 Output:
     254
+
 Formatted test case matrices:
+
 [[True, True, False, True, False, True, False, True, True, False], 
+
 [True, True, False, False, False, False, True, True, True, False], 
+
 [True, True, False, False, False, False, False, False, False, True], 
+
 [False, True, False, False, False, False, True, True, False, False]]
+
 11567
 
 [[True, False, True],
+
 [False, True, False],
+
 [True, False, True]]
+
 4
 
 [[True, False, True, False, False, True, True, True],
+
 [True, False, True, False, False, False, True, False],
+
 [True, True, True, False, False, False, True, False],
+
 [True, False, True, False, False, False, True, False],
+
 [True, False, True, False, False, True, True, True]]
+
 254
