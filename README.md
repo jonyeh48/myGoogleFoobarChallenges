@@ -4,4 +4,4 @@ Here I will be providing the Challenge Descriptions along with my answers to the
 
 Note: All of my answers are in written in python
 
-Note 2: The challenges in levels 1 and 2 are my own. Level 3, 4, and 5 challenges I got help from other people's solutions. Credit is given to these incredibly smart people at the top of each solution file.
+Note 2: The challenge solutions in levels 1 and 2 are my own. Level 3, 4, and 5 challenge solutions I got help from other people's solutions. Credit is given to these incredibly smart people at the top of each solution file.
